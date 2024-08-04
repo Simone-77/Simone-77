@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **Simone-77/Simone-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-#● What I do 👨🏻‍💻
+      
+     
+### What I do 👨🏻‍💻
   - 📖 I’m currently learning web development
 
-#● Tools and Language 🔍
+### Tools and Language 🔍
    <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="35"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35"/>
