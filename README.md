@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
       
+ <div>
   <img src="https://media.giphy.com/media/kXixecGzl2gBlpO4SQ/giphy.gif" width="150"/>
 </div>
+
 <br>
+
 ### What I do 👨🏻‍💻
   - 📖 I’m currently learning web development
 
@@ -26,6 +29,6 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="35"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="35"/>
- </div>
+ </div>
 
 <br>
