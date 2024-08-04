@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-      <div>
+      
   <img src="https://media.giphy.com/media/kXixecGzl2gBlpO4SQ/giphy.gif" width="150"/>
 </div>
 <br>
