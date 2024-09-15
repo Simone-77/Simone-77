@@ -25,11 +25,12 @@ Here are some ideas to get you started:
 
 ### Tools and Language 🔍
    <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="35"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="35"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="35"/>
+   
  </div>
 
 <br>
