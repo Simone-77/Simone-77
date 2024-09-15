@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 <br>
 
 ### What I do 👨🏻‍💻
-  - 📖 I’m currently learning web development
+  - 📖 I’m currently learning web development and python
 
 ### Tools and Language 🔍
    <div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="35"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="35"/>
